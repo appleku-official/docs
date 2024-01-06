@@ -1,1 +1,4 @@
-# appleku-doc
+# docs
+
+docs of appleku.com
+
